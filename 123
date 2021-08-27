@@ -1,9 +1,9 @@
 {
   "title": "<JoJolion>",
-  "description": "<manga description>",
+  "description": "<yes>",
   "artist": "<Hirohiko Araki>",
   "author": "<Hirohiko Araki>",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "<https://imgur.com/6vw8PQm.jpg>",
   "chapters": {
     "<87>": {
       "title": "<The Wonder Of You (Tu Amor Milagroso) Parte 7>",
