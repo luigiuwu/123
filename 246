@@ -1,0 +1,19 @@
+{
+	"title": "JoJolion - Digital Colored Comics",
+	"description": "yes",
+	"artist": "Hirohiko Araki",
+	"author": "Hirohiko Araki",
+	"cover": "https://imgur.com/a/QpcFc0X",
+	"chapters": {
+      "87": {
+        "title": "The Wonder Of You (Tu Amor Milagroso) Parte 4",
+        "volume": "21",
+        "groups": {
+          "MangaLuigi": [
+            "/proxy/api/imgur/chapter/<As0Jc0b>/"
+          ]
+        },
+        "last_updated": "1621397757"
+      }
+    }
+}
